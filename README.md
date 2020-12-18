@@ -8,7 +8,9 @@ This repo contains code to reproduce all experiments in [Equivariant Neural Rend
 
 ### Pre-trained models
 
-The pre-trained models are located https://icml20-prod.cdn-apple.com/eqn-data/models/pre-trained_models.zip.  They should be downloaded and placed into the trained-models directory.  A small model chairs.pt is included in the git repo.
+The weights for the trained chairs model are provided in `trained-models/chairs.pt`. 
+
+The other pre-trained models are located https://icml20-prod.cdn-apple.com/eqn-data/models/pre-trained_models.zip.  They should be downloaded and placed into the trained-models directory.  A small model chairs.pt is included in the git repo.
 
 ## Examples
 
@@ -66,9 +68,6 @@ This will measure the performance (in PSNR) of a trained model on a test dataset
 
 The jupyter notebook `exploration.ipynb` shows how to use a trained model to infer a scene representation from a single image and how to use this representation to render novel views.
 
-## Trained models
-
-The weights for the trained chairs model are provided in `trained-models/chairs.pt`. All other trained models can be downloaded from ???.
 
 ## Coordinate system
 
