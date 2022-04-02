@@ -1,6 +1,6 @@
 # Equivariant Neural Rendering
 
-This repo contains code to reproduce all experiments in [Equivariant Neural Rendering](https://arxiv.org/abs/2006.07630) by [E. Dupont](https://emiliendupont.github.io), [M. A. Bautista](https://scholar.google.com/citations?user=ZrRs-qoAAAAJ&hl=en), [A. Colburn](https://www.colburn.org), [A. Sankar](https://scholar.google.com/citations?user=6ZDIdEAAAAAJ&hl=en), [C. Guestrin](https://homes.cs.washington.edu/~guestrin/), [J. Susskind](https://scholar.google.com/citations?user=Sv2TGqsAAAAJ&hl=en), [Q. Shan](http://shanqi.github.io), ICML 2020.
+This repo contains code to reproduce all experiments in [Equivariant Neural Rendering](https://arxiv.org/abs/2006.07630) by [E. Dupont](https://emiliendupont.github.io), [M. A. Bautista](https://scholar.google.com/citations?user=ZrRs-qoAAAAJ&hl=en), [A. Colburn](https://www.colburn.org), [A. Sankar](https://scholar.google.com/citations?user=6ZDIdEAAAAAJ&hl=en), [C. Guestrin](https://homes.cs.washington.edu/~guestrin/), [J. Susskind](https://scholar.google.com/citations?user=Sv2TGqsAAAAJ&hl=en), [Q. Shan](https://shanqi.github.io), ICML 2020.
 
 
 
@@ -40,7 +40,7 @@ The chairs and car datasets were created with the help of [Vincent Sitzmann](htt
  
 Satellite imagery © 2020 Maxar Technologies.
 
-We thank Bernhard Vogl (salzamt@dativ.at) for the lightmaps.  The MugsHQ were rendered utilizing an environmental map located at http://dativ.at/lightprobes. 
+We thank Bernhard Vogl (salzamt@dativ.at) for the lightmaps.  The MugsHQ were rendered utilizing an environmental map located at https://dativ.at/lightprobes. 
 
 ## Usage
 
